@@ -1,0 +1,17 @@
+.tombol{
+    width:  100px;
+    position: relative;
+}
+
+.isi-tombol{
+    width: 50px;
+    height: 25px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.table tr, td{
+    text-align: center;
+}
